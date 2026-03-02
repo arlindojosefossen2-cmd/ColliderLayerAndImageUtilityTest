@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Load Animations by diferents SpriteSheets example: Idle SpriteSheet and Walk SpriteSheet animations -->
+<manager name = "Character">
+
+	<position xStart ='320' yStart ='320'></position>
+	<velocity xVelocity ='3' yVelocity ='3'></velocity>
+	
+	<animations path="/carrasco/Carrasco-Walk-SpriteSheet.png" scale='1' 
+				rows='8' columns='4' type="normal">
+	
+		<animation  init = '0' final = '3' interval = '12' looping = "true"></animation>
+		
+		<animation init = '4' final = '7' interval = '12' looping = "true"></animation>
+		
+		<animation init = '8' final = '11' interval = '12' looping = "true"></animation>
+		
+		<animation init = '12' final = '15' interval = '20' looping = "true"></animation>
+		
+		<animation init = '16' final = '19' interval = '12' looping = "true"></animation>
+		
+		<animation init = '20' final = '23' interval = '12' looping = "true"></animation>
+		
+		<animation init = '24' final = '27' interval = '12' looping = "true"></animation>
+		
+		<animation init = '28' final = '31' interval = '12' looping = "true"></animation>
+		
+	</animations>
+	<animations  path="/carrasco/Carrasco-Idle-SpriteSheet.png" scale='1' 
+				 rows='8' columns='4' type="normal">
+		
+		<animation init = '0' final = '3' interval = '16' looping = "true"></animation>
+		
+		<animation init = '4' final = '7' interval = '16' looping = "true"></animation>
+		
+		<animation init = '8' final = '11' interval = '16' looping = "true"></animation>
+		
+		<animation init = '12' final = '15' interval = '16' looping = "true"></animation>
+		
+		<animation init = '16' final = '19' interval = '16' looping = "true"></animation>
+		
+		<animation init = '20' final = '23' interval = '16' looping = "true"></animation>
+		
+		<animation init = '24' final = '27' interval = '16' looping = "true"></animation>
+		
+		<animation init = '28' final = '31' interval = '20' looping = "true"></animation>
+		
+	</animations>
+</manager>

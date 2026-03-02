@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Load Animations by diferents SpriteSheets example: IdleDown etc... and WalkDown etc... animations etc... -->
+<manager name = "Character">
+
+	<position xStart ='320' yStart ='320'></position>
+	<velocity xVelocity ='2' yVelocity ='2'></velocity>
+	
+	<animations>
+	
+		<animation path ="/carrasco/walkingnorth-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/walkingnorthwest-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/walkingnortheast-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/walkingsouth-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/walkingsouthwest-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/walkingsoutheast-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/walkingwest-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/walkingeast-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/idlenorth-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/idlenorthwest-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/idlenortheast-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/idlesouth-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/idlesouthwest-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/idlesoutheast-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/idlewest-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+		<animation path ="/carrasco/idleeast-Sheet.png" rows = '1' columns = '4' interval = '20' 
+		scale = '1' looping = "true"></animation>
+		
+	</animations>
+</manager>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tilemanager path="/tiles/islandtiles.png" rows='3' columns='36' size='76'
+			 tilesize='16' scale='4'>
+
+	<tile id='0' solid="true" animated="false"></tile>
+	<tile id='1' solid="true" animated="false"></tile>
+	<tile id='2' solid="true" animated="false"></tile>
+	<tile id='3' solid="true" animated="false"></tile>
+	<tile id='4' solid="true" animated="false"></tile>
+	<tile id='5' solid="true" animated="false"></tile>
+	<tile id='6' solid="true" animated="false"></tile>
+	<tile id='7' solid="true" animated="false"></tile>
+	<tile id='8' solid="true" animated="false"></tile>
+	<tile id='9' solid="true" animated="false"></tile>
+	<tile id='10' solid="true" animated="false"></tile>
+	<tile id='11' solid="true" animated="false"></tile>
+	<tile id='12' solid="true" animated="false"></tile>
+	<tile id='13' solid="true" animated="false"></tile>
+	<tile id='14' solid="true" animated="false"></tile>
+	<tile id='15' solid="true" animated="false"></tile>
+	<tile id='16' solid="false" animated="false"></tile>
+	<tile id='17' solid="false" animated="false"></tile>
+	<tile id='18' solid="false" animated="false"></tile>
+	<tile id='19' solid="false" animated="false"></tile>
+	<tile id='20' solid="false" animated="false"></tile>
+	<tile id='21' solid="false" animated="false"></tile>
+	<tile id='22' solid="false" animated="false"></tile>
+	<tile id='23' solid="false" animated="false"></tile>
+	<tile id='24' solid="false" animated="false"></tile>
+	<tile id='25' solid="false" animated="false"></tile>
+	<tile id='26' solid="false" animated="false"></tile>
+	<tile id='27' solid="false" animated="false"></tile>
+	<tile id='28' solid="false" animated="false"></tile>
+	<tile id='29' solid="false" animated="false"></tile>
+	<tile id='30' solid="false" animated="false"></tile>
+	<tile id='31' solid="true" animated="false"></tile>
+	<tile id='32' solid="true" animated="false"></tile>
+	<tile id='33' solid="true" animated="false"></tile>
+	<tile id='34' solid="true" animated="false"></tile>
+	<tile id='35' solid="true" animated="false"></tile>
+	<tile id='36' solid="true" animated="false"></tile>
+	<tile id='37' solid="true" animated="false"></tile>
+	<tile id='38' solid="true" animated="false"></tile>
+	<tile id='39' solid="true" animated="false"></tile>
+	<tile id='40' solid="true" animated="false"></tile>
+	<tile id='41' solid="true" animated="false"></tile>
+	<tile id='42' solid="true" animated="false"></tile>
+	<tile id='43' solid="true" animated="false"></tile>
+	<tile id='44' solid="true" animated="false"></tile>
+	<tile id='45' solid="true" animated="false"></tile>
+	<tile id='46' solid="false" animated="false"></tile>
+	<tile id='47' solid="false" animated="false"></tile>
+	<tile id='48' solid="false" animated="false"></tile>
+	<tile id='49' solid="false" animated="false"></tile>
+	<tile id='50' solid="false" animated="false"></tile>
+	<tile id='51' solid="false" animated="false"></tile>
+	<tile id='52' solid="false" animated="false"></tile>
+	<tile id='53' solid="false" animated="false"></tile>
+	<tile id='54' solid="false" animated="false"></tile>
+	<tile id='55' solid="false" animated="false"></tile>
+	<tile id='56' solid="false" animated="false"></tile>
+	<tile id='57' solid="false" animated="false"></tile>
+	<tile id='58' solid="false" animated="false"></tile>
+	<tile id='59' solid="false" animated="false"></tile>
+	<tile id='60' solid="false" animated="false"></tile>
+	<tile id='61' solid="false" animated="false"></tile>
+	<tile id='62' solid="false" animated="false"></tile>
+	<tile id='63' solid="true" animated="false"></tile>
+	<tile id='64' solid="false" animated="false"></tile>
+	<tile id='65' solid="true" animated="false"></tile>
+	<tile id='66' solid="true" animated="false"></tile>
+	<tile id='67' solid="true" animated="false"></tile>
+	<tile id='68' solid="true" animated="false"></tile>
+	<tile id='69' solid="false" animated="false"></tile>
+	<tile id='70' solid="true" animated="false"></tile>
+	<tile id='71' solid="false" animated="true">
+		<anime frames='4' interval='16'></anime>
+	</tile>
+
+</tilemanager>

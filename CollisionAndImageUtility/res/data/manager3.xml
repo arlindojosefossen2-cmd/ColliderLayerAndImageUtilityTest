@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Load All Animations of one SpriteSheets more eficient less access of files resources-->
+<manager name = "Character">
+
+	<position xStart ='620' yStart ='520'></position>
+	<velocity xVelocity ='6' yVelocity ='6'></velocity>
+	
+	<animations path="/carrasco/SpriteSheet.png" scale='1' rows='8' columns='8' frames='64'>
+	
+		<animation init = '0' frames = '4' interval = '12' looping = "true" type="normal" ></animation>
+		<animation init = '8' frames = '4' interval = '12' looping = "true" type="normal"></animation>
+		<animation init = '16' frames = '4' interval = '12' looping = "true" type="normal"></animation>
+		<animation init = '24' frames = '4' interval = '12' looping = "true" type="normal"></animation>	
+		<animation init = '32' frames = '4' interval = '12' looping = "true" type="normal"></animation>
+		<animation init = '40' frames = '4' interval = '12' looping = "true" type="normal"></animation>
+		<animation init = '48' frames = '4' interval = '12' looping = "true" type="normal"></animation>
+		<animation init = '56' frames = '4' interval = '12' looping = "true" type="normal"></animation>
+		
+		<animation init = '4' frames = '4' interval = '12' looping = "true" type="pingpong"></animation>
+		<animation init = '12' frames = '4' interval = '12' looping = "true" type="pingpong"></animation>
+		<animation init = '20' frames = '4' interval = '12' looping = "true" type="pingpong"></animation>
+		<animation init = '28' frames = '4' interval = '12' looping = "true" type="pingpong"></animation>
+		<animation init = '36' frames = '4' interval = '12' looping = "true" type="pingpong"></animation>
+		<animation init = '44' frames = '4' interval = '12' looping = "true" type="pingpong"></animation>
+		<animation init = '52' frames = '4' interval = '12' looping = "true" type="pingpong"></animation>
+		<animation init = '60' frames = '4' interval = '12' looping = "true" type="pingpong"></animation>
+									
+	</animations>
+</manager>

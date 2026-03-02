@@ -1,0 +1,24 @@
+<tilemanager>
+
+ <tileset id = '0' map = '1' world = '1'>
+   <tile id = '0'><filename>tile00.png</filename></tile>
+   <tile id = '1'><filename>tile01.png</filename></tile>
+   <tile id = '2'><filename>tile02.png</filename></tile>
+   <tile id = '3'><filename>tile03.png</filename></tile>
+ </tileset>
+ 
+ <tileset id = '1' map = '2' world = '1'>
+   <tile id = '0'><filename>tile00.png</filename></tile>
+   <tile id = '1'><filename>tile01.png</filename></tile>
+   <tile id = '2'><filename>tile02.png</filename></tile>
+   <tile id = '3'><filename>tile03.png</filename></tile>
+ </tileset>
+ 
+ <tileset id = '2' map = '1' world = '2'>
+   <tile id = '0'><filename>tile00.png</filename></tile>
+   <tile id = '1'><filename>tile01.png</filename></tile>
+   <tile id = '2'><filename>tile02.png</filename></tile>
+   <tile id = '3'><filename>tile03.png</filename></tile>
+ </tileset> 
+ 
+</tilemanager>
